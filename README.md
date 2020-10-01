@@ -5,5 +5,6 @@ Files included :
 + calc.jpg
 + css/style.css
 + index.html
->> Screenshot :
+>>
+## Screenshot :
 ![iPhone-calculator](https://github.com/rutuparna07/javascript-calculator/blob/master/assets/calc.JPG)
