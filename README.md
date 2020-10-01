@@ -6,4 +6,4 @@ Files included :
 + css/style.css
 + index.html
 >> Screenshot :
-![iPhone-calculator](assets\calc.JPG)
+![iPhone-calculator](https://github.com/rutuparna07/javascript-calculator/blob/master/assets/calc.JPG)
